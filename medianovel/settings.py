@@ -19,7 +19,7 @@ import cloudinary_storage
 import environ
 
 env = environ.Env(
-    DEBUG=(bool, True)
+    DEBUG=(bool, False)
 )
 COMPRESS_ENABLED = os.environ.get('COMPRESS_ENABLED', False)
 
