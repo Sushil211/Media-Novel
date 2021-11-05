@@ -1,0 +1,1 @@
+web: gunicorn medianovel.wsgi --log-file -
