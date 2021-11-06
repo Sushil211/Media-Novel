@@ -78,7 +78,7 @@ pip install -r requirements.txt
 ```
 ### Declare Env variables as env_example.py
 1. SECRET_KEY can be found at medianovel/settings.py <br />
-2. CLOUD_NAME, API_KEY and API_SECRET can be found at <a href="https://cloudinary.com/">cloudinary</a>
+2. CLOUD_NAME, API_KEY and API_SECRET can be found by signing up at <a href="https://cloudinary.com/">cloudinary</a>
 
 ### DB Migrations
 ```
