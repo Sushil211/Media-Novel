@@ -138,6 +138,8 @@ Sign Up
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ims_king" height="30" width="40" />
 </a>
 
+**sushilsekhar300@gmail.com**
+
 <br />
 
 Live Project Link: https://media-novel.herokuapp.com/
